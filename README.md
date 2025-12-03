@@ -15,3 +15,6 @@ persistent user preferences.
 <img width="1920" height="1080" alt="Screenshot 2025-12-03 104147" src="https://github.com/user-attachments/assets/6538cc65-00b6-4494-86ca-9c605d9ef5be" />
 <img width="1920" height="1080" alt="Screenshot 2025-12-03 104214" src="https://github.com/user-attachments/assets/d0df99b6-9608-4561-b1b8-b5eabf5480f8" />
 <img width="1920" height="1080" alt="Screenshot 2025-12-03 103721" src="https://github.com/user-attachments/assets/af0e26be-4f05-4d89-849f-406b7781dca5" />
+
+## Figma Design
+https://www.figma.com/design/3SBOL8VCstkhTz7hA3JOkm/Income---Expense-Tracker-App--Community-?node-id=0-1&t=5Km9VzMN5E6JbTdg-1
